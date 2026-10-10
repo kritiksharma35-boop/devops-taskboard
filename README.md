@@ -32,3 +32,6 @@ Browser → Nginx → Node.js Backend → PostgreSQL and Redis
 git clone https://github.com/kritiksharma35-boop/devops-taskboard.git
 cd devops-taskboard
 docker compose up --build -d
+## Live Demo
+
+https://taskboard.yourdomain.com
